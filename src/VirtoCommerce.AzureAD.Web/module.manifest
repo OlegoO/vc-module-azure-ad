@@ -4,13 +4,13 @@
   <version>3.201.0</version>
   <version-tag />
   <platformVersion>3.278.0</platformVersion>
-  <title>VirtoCommerce AzureAD module</title>
-  <description>VirtoCommerce AzureAD module</description>
+  <title>Azure Active Directory Single Sign-On</title>
+  <description>Azure AD SSO integrates with Azure AD to provide secure authentication and authorization for cloud and on-premises applications.</description>
   <authors>
     <author>Konstantin Savosteev</author>
   </authors>
   <owners>
-    <owner>VirtoCommerce</owner>
+    <owner>Virto Commerce</owner>
   </owners>
   <projectUrl>https://github.com/VirtoCommerce/vc-module-azure-ad</projectUrl>
   <iconUrl>Modules/$(VirtoCommerce.AzureAD)/Content/logo.png</iconUrl>
